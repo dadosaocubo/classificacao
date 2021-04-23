@@ -1,4 +1,4 @@
-# classificacao
+# Algoritmos de Classificação
 
 Nesse repositório estão nossos projetos práticos relacionados a aplicação de Algoritmos de Classificação, publicados no [Dados ao Cubo](https://dadosaocubo.com).
 
